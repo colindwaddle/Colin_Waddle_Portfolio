@@ -1,0 +1,3 @@
+Superstore Excel Visualization
+
+Summary: Exploring sales data of a fictional superstore across different scenarios. Includes visualizations of sales by category over time, comparing the performance of two sales representatives, as well as a "What-if" analysis testing product pricing.

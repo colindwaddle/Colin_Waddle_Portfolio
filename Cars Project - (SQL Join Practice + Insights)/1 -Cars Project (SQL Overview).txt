@@ -1,0 +1,21 @@
+Cars Project (SQL Overview - DB Browser for SQLite)
+
+Overview: Evaluation of sales data for a fictional Scale Model Car Database. See below for prompts and query summaries
+
+##Customer Lifetime Value
+
+Objective: Find average customer profit to determine how much can be spent on acquiring new ones.
+
+- Needed data from 3 different tables to calculate profit, implemented a CTE and a subquery to accomplish.
+
+##Most Profitable Customers
+
+Objective: Find the customers that bring in the most profit
+
+- Utilizing the CTE created in prior query, combined it with an existing table to find the answer
+
+##Products Low on Stock
+
+Objective: Find what products the business needs more of, low stock calculated by the sum of quantity ordered divided by quantity in stock, and then the product performance formula being the sum of quantity ordered multiplied by price each.
+
+- Needed to create CTE's for both calculations, correlated for low stock (to gather quantityordered and quantityinstock for calculations), and non-correlated for in demand (to calculate the top 10 products the business needs to order more of). In final query, it simply finds the product name/line of what's in the in demand CTE (needing another non-correlated subquery to do so).

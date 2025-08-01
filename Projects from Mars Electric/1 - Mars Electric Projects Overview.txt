@@ -1,0 +1,15 @@
+#Mars Electric Projects Overview
+
+## Ad-Hoc Stock Report
+
+Summary: Sample report I would create to review product performance on customer on-site inventory levels. Extracted data from ERP system (for inventory levels) and internal BI tool (for sales data) and combine them via Power Query. 
+
+
+## Inventory Optimization 
+
+Summary: Replaced guesswork with a data-driven inventory max system. Cut same-day deliveries by 50%, saving $1,500+/yr.
+
+
+## LDP Sales Training Project Snippet
+
+Summary: Sample page of my training overhaul during my time in the Leadership Program. Utilized BI tool to determine hot selling/moving products, and put them into a comprehensive training document.

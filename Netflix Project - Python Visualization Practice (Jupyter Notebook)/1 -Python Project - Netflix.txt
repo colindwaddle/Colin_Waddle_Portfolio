@@ -1,0 +1,3 @@
+Python Project - Netflix
+
+Summary: Brief overview of Python skills I've picked up. In this project, I created a histogram to visualize the most common duration of movies in the 90's, and then using for loops to count the number of "short" movies (less than 90 minutes) and then short action movies.
