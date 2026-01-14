@@ -7,7 +7,7 @@ Summary: Sample report I would create to review product performance on customer 
 
 ## Inventory Optimization 
 
-Summary: Replaced guesswork with a data-driven inventory max system. Cut same-day deliveries by 50%, saving $1,500+/yr.
+Summary: Replaced guesswork with a data-driven inventory max system. Cut same-day deliveries by 50%, saving $1,500+ instantly.
 
 
 ## LDP Sales Training Project Snippet
