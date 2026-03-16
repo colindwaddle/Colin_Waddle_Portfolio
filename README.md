@@ -21,6 +21,6 @@ Scale Model Car Store Database (SQL)
 - Analyzed customer activity using SQL joins and CTE's.   
 
 
-Sample Financial Ops Dashboard (Power BI + Microsoft CRM)
+Sample Financial Ops Dashboard (Power BI)
 
 - Visualized key insights from approved invoices, including country of origin, daily processing volume, top customers, and billing period trends.
