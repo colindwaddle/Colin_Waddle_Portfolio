@@ -3,6 +3,7 @@ Waddle Portfolio - Introduction
 Welcome! This portfolio showcases summarizes my skillset with a range of real-world and practice projects. Here you'll find examples of:
 
 - Excel reporting and data visualization
+- Time intelligence via DAX in Power BI
 - SQL analysis & database querying
 - Python scripting
 
